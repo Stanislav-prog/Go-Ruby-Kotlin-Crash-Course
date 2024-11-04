@@ -1,1 +1,1 @@
-# Go-Ruby-Kotlin-CrashC
+# Go-Ruby-Kotlin Crash Course by SoftServe
