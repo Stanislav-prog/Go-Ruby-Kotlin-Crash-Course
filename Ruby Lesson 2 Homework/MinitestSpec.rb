@@ -3,7 +3,7 @@ require 'minitest/reporters'
 require_relative 'lesson-2-homework'
 
 Minitest::Reporters.use! Minitest::Reporters::HtmlReporter.new(
-  reports_dir: 'test/Spec_reports',
+  reports_dir: 'Ruby Lesson 2 Homework/test/Spec_reports',
 )
 
 class StudentSpecTest < Minitest::Spec
